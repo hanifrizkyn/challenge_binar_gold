@@ -1,1 +1,3 @@
-#Chalenge-binar-gold
+#API Service for Cleansing Data with 2 End point
+#1. Input text via the form, then the output is text that has been cleaned
+#2. Upload a CSV file, then the output is text that has been cleaned
